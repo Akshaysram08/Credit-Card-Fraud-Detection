@@ -3,9 +3,9 @@
 The dataset we used contains 492 frauds out of 2,84,807
 transactions.
 
-Software and Hardware Requirements
+Software and Hardware Requirements:-
 • Python Programming Language and many modules like
-numpy,pandas,sklearn and ml methods.
+   numpy,pandas,sklearn etc.
 • Google Collaboratory
 • Operating system :Windows 10 or Ubuntu 20.04
 • 64 bit Core i3 Processor
